@@ -22,3 +22,4 @@
 # vim
 # vifm
 # yay
+# ly
